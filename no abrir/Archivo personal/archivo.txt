@@ -1,0 +1,9 @@
+1,Blusa De minecraft,450,Dama
+2,Lentes con IA META,7850,Unisex
+3,Playera de Hogwarts,250,Unisex
+4,Pantalón para tienda,420,Unisex
+5,Vestido de hermione Granger,2450,Dama
+6,PANAM x Esen Alva,999,Caballero
+7,Meta quest 3,12599,Unisex
+8,pura 70 ultra,30000,Unisex
+9,Mate XT Ultimate,98000,Unisex
